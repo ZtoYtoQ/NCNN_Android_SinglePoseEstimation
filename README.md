@@ -12,9 +12,9 @@ The simple project mainly provides Single Pose Estimation demo in Android though
 ### S2:
 
 ```bash
-git clone https://github.com/ZtoYtoQ/NCNN_SinglePoseEstimation.git
+git clonehttps://github.com/ZtoYtoQ/NCNN_Android_SinglePoseEstimation.git
 
-unzip ncnn-android-vulkan-lib.zip  {your clone root-dir}/app/src/main/jni 
+unzip ncnn-android-vulkan-lib.zip  { clone root-dir}/app/src/main/jni 
 cp { model download path /hg_pose-int8.bin}  {clone root-dir}/app/src/main/assets/ 
 cp { model download path /hg_pose-int8.param}  {clone root-dir}/app/src/main/assets/ 
 ```
@@ -23,7 +23,7 @@ cp { model download path /hg_pose-int8.param}  {clone root-dir}/app/src/main/ass
 
 Open this project with Android Studio, build it and run.
 
-**NOTE**: this project with  SDK version: ,NDK version:
+**NOTE**: this project with  SDK version: 26 , Gradle model version=5.6.4 NDK version: 20.0.5594570
 
 
 ## Running Time
