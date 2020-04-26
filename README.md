@@ -30,7 +30,7 @@ Open this project with Android Studio, build it and run.
 
 |               **Device**               | Thread : 1 | Threads : 2 |
 | :------------------------------------: | :--------: | :---------: |
-|      Mi 10 ( Snapdragon 865 CPU )      |  ~400 ms   |   ~275 ms   |
+|      Mi 10 ( Snapdragon 865 CPU )      |  ~640 ms   |   ~350 ms   |
 | Samsung S7 edge ( Snapdragon 820 CPU ) |  ~1400 ms  |   ~900 ms   |
 
 ## Demo
