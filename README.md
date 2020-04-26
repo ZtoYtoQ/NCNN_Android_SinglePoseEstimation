@@ -35,7 +35,7 @@ Open this project with Android Studio, build it and run.
 
 ## Demo
 
-
+![demo_result](https://github.com/ZtoYtoQ/NCNN_Android_SinglePoseEstimation/blob/master/demo_result.jpg)
 
 ## Reference
 
