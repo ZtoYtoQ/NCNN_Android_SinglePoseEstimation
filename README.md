@@ -7,7 +7,7 @@ The simple project mainly provides Single Pose Estimation demo in Android though
 ### S1:
 
 1. Download ncnn-android-vulkan-lib.zip for [NCNN Releases](https://github.com/Tencent/ncnn/releases)
-2. Download INT8 model from [BaiduCloud](https://pan.baidu.com/s/1QOCGh99e_3jVZgH9XMdhlQ) (Password：22qe)  or [hg_pose-int8.zip](https://github.com/ZtoYtoQ/NCNN-PoseEstimation/releases)
+
 
 ### S2:
 
@@ -15,8 +15,7 @@ The simple project mainly provides Single Pose Estimation demo in Android though
 git clonehttps://github.com/ZtoYtoQ/NCNN_Android_SinglePoseEstimation.git
 
 unzip ncnn-android-vulkan-lib.zip  { clone root-dir}/app/src/main/jni 
-cp { model download path /hg_pose-int8.bin}  {clone root-dir}/app/src/main/assets/ 
-cp { model download path /hg_pose-int8.param}  {clone root-dir}/app/src/main/assets/ 
+
 ```
 
 ### S3:
